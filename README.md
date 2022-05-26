@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-Just testing the personal repo readme.
+Just testing the personal repo readme. WIP. Coming soon: (ETA within a few days)
+
+Examples of my technical communication
+
+Technologies
+
+Interests
+
+Youtube Channel
 
 <!--
 **Nick-Yawn/Nick-Yawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
