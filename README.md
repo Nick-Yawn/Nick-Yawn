@@ -2,7 +2,7 @@
 
 Just testing the personal repo readme. WIP. Coming soon: (ETA within a few days)
 
-Examples of my technical communication
+[Examples of my technical communication](./technical-communication/README.md)
 
 Technologies
 
