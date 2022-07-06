@@ -30,8 +30,9 @@ Footnotes follow:
 ![image](sequelize-nested-seeds.JPG)
 
 # on a very curious bug in a React / Flask application
-This is an interesting one. I was mistaken about `@login_required` setting the value of `current_user`, for one thing. This issue ended up being caused by a trailing `/` in the front-end `fetch` call. I spent several hours on this, and the fix was eventually suggested by the instructor of the python module.
-~[image](the-missing-slash.JPG)
+This is an interesting one. I was mistaken about `@login_required` setting the value of `current_user`, for one thing. This issue ended up being caused by a trailing `/` in the front-end `fetch` call. I spent several hours on this, and the fix was eventually suggested by the instructor of the python module. This was one of those brutal, brutal bugs.
+
+![image](the-missing-slash.JPG)
 
 # On async hashing:
 While being mindful that the original author may also be in the Slack Channel, I was curious about the decision to use synchronous hashing.
