@@ -10,21 +10,24 @@ I don't know that there are many languages that care as much about continuing to
 
 Python and Ruby are both pretty neat too, and I enjoy using them. I feel that, with Python, you can feel the C underneath, and with Ruby, it's nice to use a language that seemed to ask "how should this be?" from a blank slate.
 
-## Technical Communication
+## Technical Communication:
 
-[Here are some examples of my technical communication in a professional setting, which are every message I sent to my cohort at App Academy.](./technical-communication/README.md) I strongly believe that "soft" skills are as important as the "hard" skills of software engineering. Not only communication, but your personal impact on your team members. Are they energized by interacting with you? Does getting together generate excitement and confidence? I would call this "impact on atmosphere", and I think it's underrated.
+[Here are some examples of my technical communication in a professional setting, which is collectively every message I sent to my cohort at App Academy.](./technical-communication/README.md) I strongly believe that "soft" skills are as important as the "hard" skills of software engineering. Not only communication, but your personal impact on your team members. Are they energized by interacting with you? Does getting together generate excitement and confidence? I would call this "impact on atmosphere", and I think it's underrated.
 
-## Technologies
+## Technologies:
 
-| Front-End | Back-End | Database / ORM | Frameworks | Platforms | AWS |
-| :---:     | :---:    |   :---:     |    :---:   |     :---:  | :-: |
-|  React    |  Python  |  PostgresQL |Ruby on Rails |  Heroku  |
-| Redux     | Flask   |  Sequelize  |            |  Docker    |
-|Javascript | Express |  SQLAlchemy |            |    |
-|   HTML    | Node    |             |            |           |
-|   CSS     |  
+loosely organized: 
 
-## Interests ie. the subjects of the books that are piled up on my nightstand
+| Front-End | Back-End | Database / ORM  | Platforms | AWS |
+| :---:     | :---:    |   :---:         |     :---:  | :-: |
+|  React    |  Python  |  PostgresQL     |  Heroku    | S3 |
+| Redux     | Flask    |  Sequelize       |  Docker    |  CloudFront  |
+|Javascript | Express  |  SQLAlchemy      |           |  Route 53  |
+|   HTML    | Node     |                  |           |    EC2  |
+|   CSS     |          |                  |           |  RDS   |
+
+
+## Interests ie. the subjects of the books that are piled up on my nightstand:
 
 - C
 - C++    (I took a [course](https://cs-courses.mines.edu/csci261/syllabus.html) on it at Mines, but I want to go deeper)
@@ -34,7 +37,7 @@ Python and Ruby are both pretty neat too, and I enjoy using them. I feel that, w
 - Embedded Systems
 - DevOps
 
-## My Youtube Channel
+## My Youtube Channel:
 
 Making programming videos has become a hobby of mine. Want to know what I sound like? Check it out! 
 
