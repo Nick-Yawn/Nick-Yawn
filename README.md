@@ -4,7 +4,7 @@ I'm looking for my next SWE role. Here's some more information about me!
 
 ## Scripting Language of Choice: Javascript
 
-The first programming languages I learned formally were Java and C++. When I started using Javascript back in 2016, I hated it for all the reasons you hear about: the use of var, prototypical inheritance, the lack of typing, how it tries to keep running where other languages would abort, the strange event loop, and callbacks, among other things. But after diving into it recently to write sorting algorithms, I began to love it — especially the recent changes in ES6. 
+The first programming languages I learned formally were Java and C++. When I started using Javascript back in 2016, I hated it for all the reasons you hear about: the use of `var`, prototypical inheritance, the lack of typing, how it tries to keep running where other languages would abort, the strange event loop, and callbacks, among other things. But after diving into it recently to write sorting algorithms, I began to love it — especially the recent changes in ES6. 
 
 I don't know that there are many languages that care as much about continuing to improve the quality of life for developers as ECMAScript does. If something is annoying to write, there's probably syntatic sugar for it, or it's on the way, like top-level `await` and `Array.prototype.at()`, which allows you to index from the end of an array with negative numbers (as shows up in other languages), which were added in ECMAScript 2022! The language is a great success story, in my book, especially considering where it started.
 
