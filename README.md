@@ -30,7 +30,7 @@ loosely organized:
 ## Interests ie. the subjects of the books that are piled up on my nightstand:
 
 - C
-- C++    (I took a [course](https://cs-courses.mines.edu/csci261/syllabus.html) on it at Mines, but I want to go deeper)
+- C++    (I took a [course](https://cs-courses.mines.edu/csci261/syllabus.html) on it a long time ago at Mines, but I want to go deeper)
 - Multiplayer Video Game Netcode Development — I think an FPS with thousands of concurrent players in one server is possible
 - Assembly Languages
 - Operating Systems
