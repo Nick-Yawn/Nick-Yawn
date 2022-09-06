@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm looking for my next SWE role. Here's some more information about me!
+Here's some more information about me!
 
 ## Check out my website!
 
