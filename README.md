@@ -6,7 +6,11 @@ Here's some more information about me!
 
 It's pretty great: [nicholasyuan.com](https://nicholasyuan.com)
 
-## Scripting Language of Choice: Javascript
+## Scripting Language of Choice: Typescript
+
+Typescript is amazing.
+
+## my old answer: Javascript
 
 The first programming languages I learned formally were Java and C++. When I started using Javascript back in 2016, I hated it for all the reasons you hear about: the use of `var`, prototypical inheritance, the lack of typing, how it tries to keep running where other languages would abort, the strange event loop, and callbacks, among other things. But after diving into it recently to write sorting algorithms, I began to love it — especially the recent changes in ES6. 
 
