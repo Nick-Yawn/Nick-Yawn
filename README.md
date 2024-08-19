@@ -11,6 +11,7 @@
 - *Good Strategy / Bad Strategy*, Richard P. Rumelt
 - *Playing to Win*, Lafley Martin
 - *Guide to Managerial Communication*, Munter & Hamilton
+- *The First 90 Days*, Michael D. Watkins
 
 ## Technologies
 
